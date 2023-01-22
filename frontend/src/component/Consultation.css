@@ -1,0 +1,32 @@
+.Consultation-heading{
+    text-align: center;
+    color:#276678;
+    margin: 30px;
+}
+.cons_card{
+    display: flex;
+    justify-content: space-around;
+}
+.Consultation_card{
+    background-color: white;
+    margin: 10px;
+    border-radius:10px;
+    padding:10px;
+    width:20vw;
+  color:#276678;
+}
+.cons-desc
+{text-align: center;
+   color: #1687A7;
+}
+.cons-card-heading{
+  
+    text-align: center;
+}
+.cons-card-img{
+    width:8vw;
+    margin-left: 4vw;
+}
+.cons-card-heading{
+text-align: center;
+}
